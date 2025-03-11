@@ -46,7 +46,7 @@ Chech out the "README-EN.md" file for English version.
 
 ### 1. Waguwagu : Food devliery service (Jul 2nd 2024  ~ Aug 23th 2024)
 - Project Overview : https://github.com/WAGUWAGUUU/WAGUWAGU <br>
-- Rider Server : https://github.com/WAGUWAGUUU/WAGUWAGU-RIDER-BE <br>
+- Rider Server : https://github.com/jinho0620/WAGUWAGU-RIDER-BE <br>
 - Payment and Settlement server : https://github.com/WAGUWAGUUU/WAGUWAGU-PAYMENT-BE <br>
 - Rider App : https://github.com/WAGUWAGUUU/WAGUWAGU-RIDER-FE <br>
 
